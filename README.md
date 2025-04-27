@@ -46,7 +46,7 @@ ai-safety-dashboard/
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Abhinaba35/Ai-safety-incident-dashboard
    cd ai-safety-dashboard
    ```
 
